@@ -1,0 +1,28 @@
+2019-03-10 19:02:11 DEBUG devpinoyLogger:59 - Config file loaded
+2019-03-10 19:02:11 DEBUG devpinoyLogger:82 - OR file loaded
+2019-03-10 19:02:15 DEBUG devpinoyLogger:107 - Chrome launched
+2019-03-10 19:02:21 DEBUG devpinoyLogger:120 - Navigated to : https://stage.eshipper.com/login
+2019-03-10 19:02:25 DEBUG devpinoyLogger:22 - Inside Login test
+2019-03-10 19:02:36 DEBUG devpinoyLogger:37 - Login succesfully executed
+2019-03-10 19:02:40 DEBUG devpinoyLogger:148 - test execution completed
+2019-03-10 19:07:28 DEBUG devpinoyLogger:59 - Config file loaded
+2019-03-10 19:07:28 DEBUG devpinoyLogger:82 - OR file loaded
+2019-03-10 19:07:32 DEBUG devpinoyLogger:107 - Chrome launched
+2019-03-10 19:07:36 DEBUG devpinoyLogger:120 - Navigated to : https://stage.eshipper.com/login
+2019-03-10 19:07:40 DEBUG devpinoyLogger:22 - Inside Login test
+2019-03-10 19:07:48 DEBUG devpinoyLogger:37 - Login succesfully executed
+2019-03-10 19:07:53 DEBUG devpinoyLogger:148 - test execution completed
+2019-03-10 21:55:30 DEBUG devpinoyLogger:64 - Config file loaded
+2019-03-10 21:55:30 DEBUG devpinoyLogger:87 - OR file loaded
+2019-03-10 21:55:34 DEBUG devpinoyLogger:112 - Chrome launched
+2019-03-10 21:55:38 DEBUG devpinoyLogger:125 - Navigated to : https://stage.eshipper.com/login
+2019-03-10 21:55:42 DEBUG devpinoyLogger:37 - Inside Login test
+2019-03-10 21:55:48 DEBUG devpinoyLogger:52 - Login succesfully executed
+2019-03-10 21:55:54 DEBUG devpinoyLogger:153 - test execution completed
+2019-03-10 21:59:00 DEBUG devpinoyLogger:64 - Config file loaded
+2019-03-10 21:59:00 DEBUG devpinoyLogger:87 - OR file loaded
+2019-03-10 21:59:03 DEBUG devpinoyLogger:112 - Chrome launched
+2019-03-10 21:59:08 DEBUG devpinoyLogger:125 - Navigated to : https://stage.eshipper.com/login
+2019-03-10 21:59:12 DEBUG devpinoyLogger:37 - Inside Login test
+2019-03-10 21:59:20 DEBUG devpinoyLogger:52 - Login succesfully executed
+2019-03-10 21:59:26 DEBUG devpinoyLogger:153 - test execution completed

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Basics">
+    
+   <!--  ctrl +shift + / -->
+ 
+   <listeners>
+     <!--  <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> -->
+       <listener class-name="com.eShipper.listeners.CustomListeners"/>
+  </listeners>  
+ 
+   
+	<test name="Eshipper AdminLogin Test">
+		<classes>
+			<class name="com.eShipper.testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test name="Add User Test">
+		<classes>
+			<class name="com.eShipper.testcases.AddUser" />
+		</classes>
+	</test> <!-- Test -->
+	
+
+</suite> <!-- Suite -->
