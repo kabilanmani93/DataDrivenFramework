@@ -19,7 +19,7 @@ public class CustomListeners extends TestBase implements ITestListener
 
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
-		parentTest = report.createTest(result.getTestName());
+		test = report.createTest(result.getTestName());
 		
 	}
 

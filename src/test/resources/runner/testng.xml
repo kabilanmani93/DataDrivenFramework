@@ -18,9 +18,9 @@
 	</test> <!-- Test -->
 	
 	
-	<test name="Add User Test">
+	<test name="Create User Test">
 		<classes>
-			<class name="com.eShipper.testcases.AddUser" />
+			<class name="com.eShipper.testcases.CreateUser" />
 		</classes>
 	</test> <!-- Test -->
 	

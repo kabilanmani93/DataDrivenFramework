@@ -3,3 +3,5 @@ target
 .project
 .classpath
 .settings
+ExtentReport
+.\src\test\resources\logs

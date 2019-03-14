@@ -35,7 +35,7 @@ public class LoginTest extends TestBase implements ITest{
 	@Test
 	public void loginAsAdmin() throws InterruptedException {
 		
-		childTest = parentTest.createNode("Open Application URL");
+		childTest = test.createNode("Open Application URL");
 		childTest.log(Status.INFO, MarkupHelper.createLabel("The url is opened through Chrome", ExtentColor.BLUE));
 		
 		Thread.sleep(3000);
@@ -83,7 +83,7 @@ public class LoginTest extends TestBase implements ITest{
 		Assert.assertEquals(Expectedmenulist, Actualmenulist);
 		test.log(Status.INFO,"Values match");
 		
-		Assert.assertEquals("1","0");
+		//Assert.assertEquals("1","0");
 		
 		
 		
